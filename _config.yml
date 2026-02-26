@@ -15,7 +15,7 @@ name                     : &name "潘奕宏"
 description              : &description "南开大学统计与数据科学学院博士研究生，研究方向：LLM、知识图谱、Legal AI"
 url                      : https://evan02580.github.io
 baseurl                  : ""
-repository               : "Evan02580/Evan02580.github.io"
+repository               : "Evan02580/evan02580.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
