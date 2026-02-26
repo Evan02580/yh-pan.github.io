@@ -1,10 +1,10 @@
 ---
+layout: archive
 title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
-  - /cv/
-  - /cv.html
+  - /resume
 ---
 
 {% include base_path %}
@@ -12,17 +12,14 @@ redirect_from:
 ## Education
 
 - Ph.D in Nankai University, China, 2026.09 - 2030.07
-
   - Major in Statistics
   - Supervisor: Prof. Huijia Li
 
 - M.S in The University of Auckland, New Zealand, 2023.07 - 2025.09
-
   - Major in Data Science
   - Supervisor: Dr. Kaiqi Zhao
 
 - B.E. in Southwest University, China, 2020.09 - 2024.07
-
   - Major in Computer Science and Technology
 
 ## Work Experience
@@ -33,22 +30,16 @@ redirect_from:
 
 ## Publications
 
-- **REFINE: A Resource-Efficient LLM-based Approach for Next Top-K POI Recommendation**
-
-  **Yihong Pan**, Qiqi Wang, Ziyi Jiang, Weizhe Shi, Zhipeng Lin, Huijia Li, Kaiqi Zhao.
-
+- **REFINE: A Resource-Efficient LLM-based Approach for Next Top-K POI Recommendation**<br>
+  **Yihong Pan**, Qiqi Wang, Ziyi Jiang, Weizhe Shi, Zhipeng Lin, Huijia Li, Kaiqi Zhao.<br>
   The 31st International Conference on Database Systems for Advanced Applications (DASFAA' 2026). [GitHub](https://github.com/Evan02580/REFINE)
 
-- **HUSK: A Hierarchically Structured Urban Knowledge Graph Dataset for Multi-Level Spatial Tasks**
-  
-  Qiqi Wang, Guanjin Wang, **Yihong Pan**, Zhipeng Lin, Huijia Li, Qian Liu, Kaiqi Zhao. 
-  
+- **HUSK: A Hierarchically Structured Urban Knowledge Graph Dataset for Multi-Level Spatial Tasks**<br>
+  Qiqi Wang, Guanjin Wang, **Yihong Pan**, Zhipeng Lin, Huijia Li, Qian Liu, Kaiqi Zhao.<br>
   The 34th ACM International Conference on Information and Knowledge Management (CIKM' 2025). [GitHub](https://github.com/77-qiqi-wang/HUSK)
 
-- **CluRF: Combining Unsupervised Clustering with Explainable Ensemble Learning for Risk Prediction**
-  
-  **Yihong Pan**, Bofan Wang, Zhipeng Lin, Yifan Zhou, Huazhe Cheng, Karuna Reddy, Gillian Dobbie and Mark Chen.
-  
+- **CluRF: Combining Unsupervised Clustering with Explainable Ensemble Learning for Risk Prediction**<br>
+  **Yihong Pan**, Bofan Wang, Zhipeng Lin, Yifan Zhou, Huazhe Cheng, Karuna Reddy, Gillian Dobbie and Mark Chen.<br>
   The 22st Pacific Rim International Conference on Artificial Intelligence (PRICAI' 2025). [GitHub](https://github.com/Evan02580/HeartAttackPred)
 
 

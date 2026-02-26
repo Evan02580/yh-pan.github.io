@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "zh-CN"
 site_theme               : "default"
-title                    : "潘奕宏 | Yihong Pan"
+title                    : "潘奕宏 - 个人简历"
 title_separator          : "-"
 name                     : &name "潘奕宏"
 description              : &description "南开大学统计学博士"
@@ -23,7 +23,7 @@ repository               : "Evan02580/evan02580.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "潘奕宏"
+  name             : "潘奕宏 | Yihong Pan"
   pronouns         : # he/him
   bio              : "南开大学统计学博士"
   location         : "中国，天津"
